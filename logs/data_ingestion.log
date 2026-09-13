@@ -1,0 +1,6 @@
+2026-09-13 16:10:40,599 - data_ingestion - ERROR - File not found: params.yaml
+2026-09-13 16:10:40,602 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'params.yaml'
+2026-09-13 16:15:20,751 - data_ingestion - ERROR - Failed to complete the data ingestion process: name 'params' is not defined
+2026-09-13 16:15:50,129 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/Jami40/MLOPS_END_TO_END_PIPELINE_DVC_AWS_ML/refs/heads/main/experiments/spam.csv
+2026-09-13 16:15:50,177 - data_ingestion - DEBUG - Data preprocessing completed
+2026-09-13 16:15:50,229 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
