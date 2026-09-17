@@ -10,3 +10,11 @@
 2026-09-16 23:32:55,452 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/Jami40/MLOPS_END_TO_END_PIPELINE_DVC_AWS_ML/refs/heads/main/experiments/spam.csv
 2026-09-16 23:32:55,453 - data_ingestion - DEBUG - Data preprocessing completed
 2026-09-16 23:32:55,473 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-09-17 12:36:33,159 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-09-17 12:36:57,259 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/Jami40/MLOPS_END_TO_END_PIPELINE_DVC_AWS_ML/refs/heads/main/experiments/spam.csv
+2026-09-17 12:36:57,293 - data_ingestion - DEBUG - Data preprocessing completed
+2026-09-17 12:36:57,343 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-09-17 12:38:28,520 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-09-17 12:38:52,128 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/Jami40/MLOPS_END_TO_END_PIPELINE_DVC_AWS_ML/refs/heads/main/experiments/spam.csv
+2026-09-17 12:38:52,130 - data_ingestion - DEBUG - Data preprocessing completed
+2026-09-17 12:38:52,158 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
